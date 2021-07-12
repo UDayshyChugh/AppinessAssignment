@@ -1,0 +1,9 @@
+.dashboardOuter{
+
+    justify-content: space-evenly;
+    margin-top: 20%;
+}
+.itm{
+    background-color: powderblue;
+    padding: 3vh;
+}

@@ -1,0 +1,49 @@
+
+
+.container{
+    position:relative,
+
+}
+.loginBlock{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #c4c2c2;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  height: 300px;
+
+} 
+
+.customInput{
+    margin-top: 7%;
+    height: 30px;
+    width: 270px;
+}
+
+.inputDiv{
+    margin-top: 20px;
+}
+.label{
+    position: absolute;
+    margin-top: 19px;
+}
+.error {
+    color: red;
+    /* font-weight: 100; */
+    font-size: 13px;
+}
+.dashboardOuter{
+    display: flex;
+    flex-direction: row;
+
+}
+.itm{
+    margin-right: 30px;
+}
+/* .container{
+    display: flex;
+justify-content: center;
+} */
